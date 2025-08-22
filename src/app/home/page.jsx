@@ -1,5 +1,3 @@
-
-
 import Banner from "@/components/Banner";
 import ProductHighlights from "@/components/ProductHighlights";
 

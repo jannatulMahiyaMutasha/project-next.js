@@ -1,4 +1,3 @@
-
 import { doLogout } from "@/app/actions"
 
 const Logout = () => {
