@@ -3,6 +3,8 @@
 
 This repository contains the source code for the educational video on the [tapaScript YouTube Channel](https://www.youtube.com/tapasadhikary). You will find various Next-Auth implementation details and the source code in this repository.
 
+## Live Link (https://my-store-eta.vercel.app/)
+
 ## The Implementations:
 
 - [Integrate Google OAUTH](https://github.com/tapascript/learn-next-auth/tree/01-integrate-google-provider) => [Watch the Video Tutorial](https://www.youtube.com/watch?v=O8Ae6MC5bf4)
